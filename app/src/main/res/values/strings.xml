@@ -1,0 +1,12 @@
+<resources>
+    //Nombres de proyectos
+    <string name="app_name">PrimerProyecto</string>
+
+    //Nombres de textos
+    <string name="texto">Bienvenido</string>
+
+    //Nombres de botones
+    <string name="nombre_boton">Entrar</string>
+
+
+</resources>

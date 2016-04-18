@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Nombres de proyectos
+    <string name="app_name">FirstProject</string>
+
+    //Nombres de textos
+    <string name="texto">Welcome</string>
+
+    //Nombres de botones
+    <string name="nombre_boton">Enter</string>
+</resources>

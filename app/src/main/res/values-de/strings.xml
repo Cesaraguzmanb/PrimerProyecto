@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Nombres de proyectos EN ALEMAN
+    <string name="app_name">Erstes Projekt</string>
+
+    //Nombres de textos
+    <string name="texto">Willkommen</string>
+
+    //Nombres de botones
+    <string name="nombre_boton">Eingeben</string>
+</resources>

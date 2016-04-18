@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Nombres de proyectos EN FRANCÉS
+    <string name="app_name">PremierProjet</string>
+
+    //Nombres de textos
+    <string name="texto">Bienvenue</string>
+
+    //Nombres de botones
+    <string name="nombre_boton">Entrer</string>
+</resources>
